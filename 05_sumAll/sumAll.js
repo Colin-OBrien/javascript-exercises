@@ -14,7 +14,7 @@ const sumAll = function(start, end) {
         for (start; start >= end; start--) {
 
             totalSum += start
-
+ TESTS are not working for this function
     }
     return totalSum
 }*/
